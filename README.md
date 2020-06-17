@@ -1,6 +1,6 @@
 # track-nodejs-request-with-asynclocalstorage
 
-This project was based on [vdeturckheim](https://github.com/vdeturckheim)'s talk about Request context tracking (AsyncLocalStorage use cases and best practices). You can also see the his [presentation slides](https://www.icloud.com/keynote/0uwcgADQfQRGhUDkzAZ4SMd7A#AsyncLocalStorage)
+This project was based on [vdeturckheim](https://github.com/vdeturckheim)'s talk about Request context tracking (AsyncLocalStorage use cases and best practices). You can also see his [presentation slides](https://www.icloud.com/keynote/0uwcgADQfQRGhUDkzAZ4SMd7A#AsyncLocalStorage)
 
 ## Running
 
